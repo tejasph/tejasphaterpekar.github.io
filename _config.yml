@@ -21,7 +21,6 @@ facebook_username: brxyxmp
 github_username: brxyxncorp
 youtube_username: brxyxmp
 
-markdown: kramdown
 theme: ultra-minimalista
 exclude:
     - Gemfile
@@ -39,7 +38,7 @@ defaults:
         layout: "post"
         title: "Brxyxn"
         author: "Brayan López"
-        excerpt_separator: 
+        excerpt_separator: <!--more-->
 -
     scope:
         path: "projects"
