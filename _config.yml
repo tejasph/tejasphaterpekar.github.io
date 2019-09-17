@@ -5,19 +5,19 @@ collections:
 
 permalink: /:categories/:title/
 
-title: Brayan López
-email: brxyxn.corp@live.com
+title: Tejas Phaterpekar
+email: tphaterp@sfu.ca
 description: >
-    Diseñador Web, Desarrollador de Software
-    Cursos, Tutoriales y Guías de Programación
+    UBC Master of Data Science Student
+    
 baseurl: ""
 url: "https://brxyxn.xyz"
 lang: es
 host: "localhost"
 port: 4000
 # Redes Sociales [Variables]
-twitter_username: brxyxmp
-facebook_username: brxyxmp
+twitter_username: 
+facebook_username: 
 github_username: brxyxncorp
 youtube_username: brxyxmp
 
